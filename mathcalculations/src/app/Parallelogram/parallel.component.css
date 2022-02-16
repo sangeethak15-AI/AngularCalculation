@@ -1,0 +1,28 @@
+* {
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  .container {
+    width: 1080px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 30px;
+    padding-left: 300px;
+    padding-bottom: 500px;
+  }
+  .content {
+    display:block;
+    width: 500px;
+    background-color:white;
+    min-height: 150px;
+    font-size: 20px;
+  }
+  h2{
+      text-align: center;
+      padding-top: 25px;
+  }
+  .formelement{
+      text-align: center;
+      margin-top: 5px;
+      margin-bottom: 5px;
+  }
